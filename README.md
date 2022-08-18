@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AuRa123456
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python and c language
 - 📫 Discord id- ᗩᑌᖇᗩ#8608
 
 <!---
