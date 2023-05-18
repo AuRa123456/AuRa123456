@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AuRa123456
-- 👀 I’m interested in python
+- 👋 Hi, I’m AuRa here
 - 📫 Discord id- ᗩᑌᖇᗩ#8608
 
 <!---
