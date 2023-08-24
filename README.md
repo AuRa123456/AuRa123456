@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AuRa here
+- 👋 Hi, AuRa here
 
 <!---
 AuRa123456/AuRa123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
